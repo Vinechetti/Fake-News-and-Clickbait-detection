@@ -1,1 +1,1 @@
-"# Fake News/Manipulation detection"
+# Fake News/Manipulation detection
